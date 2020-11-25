@@ -1,7 +1,7 @@
 import animals from "./data";
 
 
-console.log(animals);
+console.log(animals)
 
 
 
