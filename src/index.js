@@ -6,7 +6,7 @@ import animals from "./data";
 const[cat,dog] = animals;
 //console.log(cat,dog)
 const{name:Peyar, sound:Satham} = cat;
-console.log("animal name  " + Peyar , "Athan Satham" + Satham);
+console.log("animal name  " + Peyar , "Athan Satham " + Satham);
 
 
 // CHALLENGE: uncomment the code below and see the car stats rendered
