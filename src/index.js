@@ -1,8 +1,12 @@
-// CHALLENGE: uncomment the code below and see the car stats rendered
 import animals from "./data";
 
 
 console.log(animals);
+
+
+
+// CHALLENGE: uncomment the code below and see the car stats rendered
+
 // ReactDOM.render(
 // <h1 style = {col}>welcome</h1>,
   // <table>
