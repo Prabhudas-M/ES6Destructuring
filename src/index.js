@@ -1,6 +1,6 @@
 // CHALLENGE: uncomment the code below and see the car stats rendered
 import animals from "./data";
-//const col = {color:"#945290"};
+
 
 console.log(animals);
 // ReactDOM.render(
