@@ -1,10 +1,12 @@
 import animals from "./data";
 
 
-console.log(animals)
+//console.log(animals)
 
 const[cat,dog] = animals;
-console.log(cat)
+//console.log(cat,dog)
+const[name, sound] = cat;
+console.log(sound);
 
 // CHALLENGE: uncomment the code below and see the car stats rendered
 
